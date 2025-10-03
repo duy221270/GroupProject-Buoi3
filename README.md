@@ -1,1 +1,1 @@
-# Đây là dự án Git - Thành viên Trang cập nhật.
+Dự án Git của nhóm - Cập nhật bởi thành viên Trang và Vy.
