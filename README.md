@@ -1,1 +1,1 @@
-Dự án này được cập nhật bởi thành viên Vy.
+Dự án Git của nhóm - Cập nhật bởi thành viên Trang và Vy.
