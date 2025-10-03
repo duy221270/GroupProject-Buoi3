@@ -1,1 +1,1 @@
-# Ghi chú chung của nhóm
+# Thành viên Trang đã đóng góp
